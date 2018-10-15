@@ -12,3 +12,6 @@ class Usuario{
 	public $senha;
 	
 }
+
+
+?>
